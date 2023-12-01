@@ -6,6 +6,10 @@ body {
   position: relative;
 }
 
+a {
+  text-decoration: none;
+}
+
 
 .top-nav-bar {
   display: flex;

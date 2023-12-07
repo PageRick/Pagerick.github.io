@@ -26,9 +26,16 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 200px;
+  width: auto;
   margin-right: 20px;
   margin-left: 10px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+  cursor: pointer;
 }
 .nav-bar-text {
   font-family: 'Roboto' , Arial;
